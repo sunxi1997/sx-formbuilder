@@ -32,9 +32,14 @@ function _defineProperties(target, props) { for (var i = 0; i < props.length; i+
 function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _defineProperties(Constructor.prototype, protoProps); if (staticProps) _defineProperties(Constructor, staticProps); return Constructor; }
 
 /**
+ *
+ * @version 1.0.1
+ *
  * @author sunxi1997
  *
  * @desc 表单验证工具
+ *
+ * 孙玺修改与 2020-5-9
  *
  * https://github.com/sunxi1997/sx-formbuilder
  */
