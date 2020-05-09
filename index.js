@@ -1,7 +1,12 @@
 /**
+ *
+ * @version 1.0.1
+ *
  * @author sunxi1997
  *
  * @desc 表单验证工具
+ *
+ * 孙玺修改与 2020-5-9
  *
  * https://github.com/sunxi1997/sx-formbuilder
  */
